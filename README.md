@@ -1,5 +1,28 @@
 # 💫 About Me:
-# 💻 Software Developer<br><br>Passionate Full-Stack Developer with professional experience at Investhood IT, building enterprise applications with Spring Boot and MySQL. Currently pursuing a Computer Science Diploma at Tshwane University of Technology (Expected 2026).<br><br>**💼 Experience:** Fullstack Developer @ Investhood IT - Developed enterprise applications using Spring Boot & MySQL<br><br>**🛠️ Tech Stack:** Java • Spring Boot • JavaScript • TypeScript • MySQL • Git<br><br>**🎯 Currently Seeking:** Computer science/Software Development Internship<br><br>**📫 Connect with me:**<br>- 📧 Email: philasandenkosi8@gmail.com<br>- 📞 Phone: 078 291 3680<br>- 💼 LinkedIn: PHILASANDE NKOSI<br>- 🌐 Portfolio: https://philasande1402.github.io/Myportfolio_philasande/<br><br>*Available for internship opportunities immediately*
+# 💻 Software Developer<br><br>Passionate Full-Stack Developer building enterprise applications with Spring Boot and MySQL.
+
+**🎓 Education:**
+- Computer Science Diploma at Tshwane University of Technology (Expected 2026)
+
+**💼 Professional Experience:**
+- Developed enterprise applications using Spring Boot & MySQL
+- Built full-stack solutions with modern web technologies
+
+**🛠️ Tech Stack:**
+- Backend: Java, Spring Boot ,Kotlin
+- Frontend: JavaScript, TypeScript ,Html,CSS,REACT.JS
+- Database: MySQL,POSTGRES-SQL
+- Version Control: Git
+
+**🎯 Currently Seeking:**
+- Computer Science/Software Development Internship
+- Available immediately
+
+**📫 Contact Information:**
+- 📧 Email: philasandenkosi8@gmail.com
+- 📞 Phone: 078 291 3680
+- 💼 LinkedIn: PHILASANDE NKOSI
+- 🌐 Portfolio: https://philasande1402.github.io/Myportfolio_philasande/
 
 
 ## 🌐 Socials:
