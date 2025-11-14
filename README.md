@@ -1,11 +1,12 @@
-# 💫 About Me:
-# 💻 Software Developer<br><br>Passionate Full-Stack Developer building enterprise applications with Spring Boot and MySQL.
+**💫 About Me:**
+- 💻 Software Developer | Passionate Full-Stack Developer building enterprise applications with Spring Boot and MySQL
+
 
 **🎓 Education:**
 - Computer Science Diploma at Tshwane University of Technology (Expected 2026)
 
 **💼 Professional Experience:**
-- Developed enterprise applications using Spring Boot & MySQL
+- Developed enterprise applications using Spring Boot & MySQL,Postman,thymeleaf
 - Built full-stack solutions with modern web technologies
 
 **🛠️ Tech Stack:**
