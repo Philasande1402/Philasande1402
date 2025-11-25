@@ -1,6 +1,6 @@
 **💫 About Me:**
 
--👨🏽‍💻 Hi there! I'm Philasande Valentine , a passionate Software Developer who loves building smart and impactful tech solutions,solving really world problems.
+- 👨🏽‍💻 Hi there! I'm Philasande Valentine , a passionate Software Developer who loves building smart and impactful tech solutions,solving really world problems.
 
 - 💻  A dedicated and collaborative Software Developer with a foundation in full-stack development, database design, and system 
  analysis. A proven problem-solver committed to writing high-quality, efficient code. Actively seeking an internship to apply 
