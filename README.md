@@ -1,5 +1,7 @@
 **💫 About Me:**
-- 💻 Software Developer | Passionate Full-Stack Developer building enterprise applications with Spring Boot and MySQL
+- 💻  A dedicated and collaborative Software Developer with a foundation in full-stack development, database design, and system 
+ analysis. A proven problem-solver committed to writing high-quality, efficient code. Actively seeking an internship to apply 
+ technical skills and contribute to impactful projects. 
 
 
 **🎓 Education:**
