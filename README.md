@@ -19,7 +19,7 @@
 **🛠️ Tech Stack:**
 - Backend: Java, Spring Boot ,Kotlin
 - Frontend: JavaScript, TypeScript ,Html,CSS,REACT.JS
-- Database: MySQL,POSTGRES-SQL
+- Database: MySQL,POSTGRES-SQL,PL/SQL
 - Version Control: Git
 
 **🎯 Currently Seeking:**
