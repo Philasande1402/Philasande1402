@@ -10,7 +10,7 @@
 
 
 **🎓 Education:**
-- Computer Science Diploma at Tshwane University of Technology (Expected 2026)
+- Computer Science Diploma at Tshwane University of Technology (Graduation:2026)
 
 **💼 Professional Experience:**
 - Developed enterprise applications using Spring Boot & MySQL,Postman,thymeleaf
