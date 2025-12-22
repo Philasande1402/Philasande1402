@@ -30,7 +30,7 @@
 - 📧 Email: philasandenkosi8@gmail.com
 - 📞 Phone: 078 291 3680
 - 💼 LinkedIn: PHILASANDE NKOSI
-- 🌐 Portfolio: https://philasande-portfolio.netlify.app
+- 🌐 Portfolio: https://philasande-nkosi-portfolio.netlify.app
 
 
 ## 🌐 Socials:
