@@ -19,7 +19,7 @@
 - 📫 Reach me at: philasandenkosi8@gmail.com
 
 **💼 Professional Experience:**
-- Developed enterprise applications using Spring Boot & MySQL,Postman,thymeleaf
+- Developed enterprise applications using Spring Boot & MySQL,Postman,thymeleaf,React
 - Built full-stack solutions with modern web technologies
 
 **🛠️ Tech Stack:**
