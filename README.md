@@ -1,16 +1,19 @@
+# Hi there, I'm Philasande Valentine Nkosi 👋
+
+**Aspiring Software Engineer | Data Engineer | Full-Stack Developer**
+📍 Johannesburg, South Africa
+
 **💫 About Me:**
 
- 👨🏽‍💻 Hi there! I'm Philasande Valentine , a passionate Software Developer who loves building smart and impactful tech solutions,solving really world problems.
-
- Aspiring Software Engineer | Full-Stack Developer | Mobile Developer  | Database Design
-
- 💻  A dedicated and collaborative Software Developer with a foundation in full-stack development, database design, and system 
- analysis. A proven problem-solver committed to writing high-quality, efficient code. Actively seeking an internship to apply 
- technical skills and contribute to impactful projects. 
+ 💻  Full-stack developer with hands-on internship experience building production-ready applications using Spring Boot, React, and PostgreSQL. Passionate about data-driven solutions, clean code, and solving real-world problems. Currently completing my Advanced Diploma in Computer Science at Tshwane University of Technology. 
 
 
 **🎓 Education:**
-- Computer Science Diploma at Tshwane University of Technology (Graduation:2026)
+🎓Computer Science Diploma at Tshwane University of Technology (Graduated 2026) | FIRST CLASS
+🎓 Advanced Diploma in Computer Science — Tshwane University of Technology (In Progress, 2026)
+- 🌱 Exploring Data Engineering and distributed systems
+- 💡 Open to: Software Engineering / Data Engineering internships and junior roles
+- 📫 Reach me at: philasandenkosi8@gmail.com
 
 **💼 Professional Experience:**
 - Developed enterprise applications using Spring Boot & MySQL,Postman,thymeleaf
