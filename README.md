@@ -1,6 +1,7 @@
 # Hi there, I'm Philasande Valentine Nkosi 👋
 
 **Aspiring Software Engineer | Data Engineer | Full-Stack Developer**
+
 📍 Johannesburg, South Africa
 
 **💫 About Me:**
