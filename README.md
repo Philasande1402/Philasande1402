@@ -9,7 +9,9 @@
 
 
 **🎓 Education:**
+
 🎓Computer Science Diploma at Tshwane University of Technology (Graduated 2026) | FIRST CLASS
+
 🎓 Advanced Diploma in Computer Science — Tshwane University of Technology (In Progress, 2026)
 - 🌱 Exploring Data Engineering and distributed systems
 - 💡 Open to: Software Engineering / Data Engineering internships and junior roles
